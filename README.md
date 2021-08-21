@@ -42,6 +42,7 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 -       2014       <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [SharpSweeper](https://github.com/zdimension/SharpSweeper) - minesweeper clone
 -       2014       <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [RegistryFS](https://github.com/zdimension/RegistryFS) - the Windows Registry as a Dokan userspace FS
 - \[2014; 2015] <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [CrediNET](https://github.com/zdimension/CrediNET) - personal budgeting app
+-       2013       <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [Split# Network Toolkit](https://github.com/zdimension/splitsharpnettoolkit) - Prototype of a web server for a prototype of a programming language
 
 ## Contributor
 
