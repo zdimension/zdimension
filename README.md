@@ -40,7 +40,9 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 - \[2015; 2017] <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [Hassium](https://github.com/HassiumTeam/Hassium) - object-oriented scripting language
 -       2014       <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [SharpRenamer](https://github.com/zdimension/SharpRenamer) - minesweeper clone
 -       2014       <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [SharpSweeper](https://github.com/zdimension/SharpSweeper) - minesweeper clone
+-       2014       <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [RegistryFS](https://github.com/zdimension/RegistryFS) - the Windows Registry as a Dokan userspace FS
 - \[2014; 2015] <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [CrediNET](https://github.com/zdimension/CrediNET) - personal budgeting app
+-       2013       <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [Ocular](https://github.com/zdimension/Ocular) - WYSIWYG HTML editor, similar to Adobe Dreamweaver
 
 ## Contributor
 
