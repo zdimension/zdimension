@@ -29,6 +29,7 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 
 ### Past
 
+-       2021       <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> [red_blue_graph_solver](https://github.com/thomasarmel/red_blue_graph_solver_1) - algorithmic study of the "red-blue" graph problem related to connectivity inference
 -       2021       <img height=20 src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logisim-icon.svg"> [logisim-connectfour](https://github.com/zdimension/logisim-connectfour) - Connect Four implemented as a logic circuit
 -       2021       <img height=20 src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logisim-icon.svg"> [logisim-pong](https://github.com/zdimension/logisim-pong) - Pong implemented as a logic circuit
 -       2021       <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> [soyouz](https://github.com/zdimension/pns-si3-qgl-2021-soyouz) - school project / boat and sailor control code for a pirate battleship game + 2D/3D game simulator
