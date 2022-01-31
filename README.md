@@ -7,7 +7,8 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 
 # Best friends
 
-<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">     <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">     <img height=80 src="https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg">     <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">     <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">     <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">     <img height=80 src="https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg">     <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">     <img width=80 src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" />
+
 
 # Education
 
