@@ -21,7 +21,8 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 
 ### Current
 
--       2022       <img alt="C" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [embed-c](https://github.com/zdimension/embed-c) - Embed C code at compile time inside Rust using C2Rust
+-       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [inline-vbs](https://github.com/zdimension/inline-vbs) - Embed VBScript code seamlessly inside Rust using the Active Scripting COM APIs
+-       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [embed-c](https://github.com/zdimension/embed-c) - Embed C code at compile time inside Rust using C2Rust
 -       2022       <img alt="C" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> [WordleCE](https://github.com/zdimension/wordle-ce) - Wordle implementation on the TI CE calculator family
 -       2021       <img alt="Prolog" height=20 src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg"> [si4-s8-options](https://github.com/zdimension/si4-s8-options) - school courses choice solver
 - \[2021; now)  <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> <img alt="OpenGL" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg"> [graphrust](https://github.com/zdimension/graphrust) - GPU-accelerated large graph (>1M nodes) viewer for a web scraping project
