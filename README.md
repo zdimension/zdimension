@@ -1,5 +1,7 @@
 # Hey there!
 
+[<img alt="LinkedIn" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/tom-niget/) [<img alt="Twitter" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/zdimension_)
+
 I'm Tom Niget, living in France and currently studying for an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zdimension&count_private=true&show_icons=true)
@@ -7,7 +9,7 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 
 # Best friends
 
-<img alt="" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">     <img alt="" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">     <img alt="" height=80 src="https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg">     <img alt="" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">     <img width=80 src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" />
+<img alt="C#" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">     <img alt="Git" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">     <img alt="JetBrains" height=80 src="https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg">     <img alt="Python" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">     <img alt="Rust" width=80 src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" />
 
 
 # Education
