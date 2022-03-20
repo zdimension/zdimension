@@ -58,6 +58,7 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 -       2014       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [RegistryFS](https://github.com/zdimension/RegistryFS) - the Windows Registry as a Dokan userspace FS
 - \[2014; 2015] <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [CrediNET](https://github.com/zdimension/CrediNET) - personal budgeting app
 -       2013       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [Split# Network Toolkit](https://github.com/zdimension/splitsharpnettoolkit) - Prototype of a web server for a prototype of a programming language
+-       2010       <img alt="VB.NET" height=20 src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"> [ZBiblio](https://github.com/zdimension/zbiblio) - Software for managing collections of movies
 
 ## Contributor
 
