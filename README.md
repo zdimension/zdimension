@@ -23,6 +23,7 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 
 ### Current
 
+-       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [hm-infer-rs](https://github.com/zdimension/hm-infer-rs) - Hindley-Milner type inference for Scheme, in Rust; with REPL
 -       2022       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [hm-infer-cs](https://github.com/zdimension/hm-infer-cs) - Hindley-Milner type inference for Scheme, in C#
 -       2022       <img alt="Racket" height=20 src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg"> [hm-infer-scheme](https://github.com/zdimension/hm-infer-scheme) - Hindley-Milner type inference for Scheme, in Scheme
 -       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [inline-vbs](https://github.com/zdimension/inline-vbs) - Embed VBScript code seamlessly inside Rust using the Active Scripting COM APIs
