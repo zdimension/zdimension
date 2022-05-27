@@ -58,18 +58,20 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 -       2014       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img alt="Windows Forms" height=20 src="https://i.imgur.com/lrqrIUg.png"> [SharpSweeper](https://github.com/zdimension/SharpSweeper) - minesweeper clone
 -       2014       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [RegistryFS](https://github.com/zdimension/RegistryFS) - the Windows Registry as a Dokan userspace FS
 - \[2014; 2015] <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img alt="Windows Forms" height=20 src="https://i.imgur.com/lrqrIUg.png"> [CrediNET](https://github.com/zdimension/CrediNET) - personal budgeting app
--       2013       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [Split# Network Toolkit](https://github.com/zdimension/splitsharpnettoolkit) - Prototype of a web server for a prototype of a programming language
--       2010       <img alt="VB.NET" height=20 src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"> <img alt="Windows Forms" height=20 src="https://i.imgur.com/lrqrIUg.png"> [ZBiblio](https://github.com/zdimension/zbiblio) - Software for managing collections of movies
--       2010       <img alt="VB.NET" height=20 src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"> <img alt="Windows Forms" height=20 src="https://i.imgur.com/lrqrIUg.png"> [mdi-notepad](https://github.com/zdimension/mdi-notepad) - Simple MDI notepad
+-       2013       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [Split# Network Toolkit](https://github.com/zdimension/splitsharpnettoolkit) - prototype of a web server for a prototype of a programming language
+-       2010       <img alt="VB.NET" height=20 src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"> <img alt="Windows Forms" height=20 src="https://i.imgur.com/lrqrIUg.png"> [ZBiblio](https://github.com/zdimension/zbiblio) - software for managing collections of movies
+-       2010       <img alt="VB.NET" height=20 src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"> <img alt="Windows Forms" height=20 src="https://i.imgur.com/lrqrIUg.png"> [mdi-notepad](https://github.com/zdimension/mdi-notepad) - simple MDI notepad
 
 ## Contributor
 
 ### Current
 
-- \[2020; now) <img alt="Java" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) (part of the development team) - digital logic circuit design and simulation tool
+-       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [cargo-breaking](https://github.com/iomentum/cargo-breaking) - cargo command for automatically detecting breaking changes between versions of a project
+-       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [restest](https://github.com/iomentum/restest) - declarative REST API testing utilities
+- \[2020; now)  <img alt="Java" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) (maintainer) - digital logic circuit design and simulation tool
     - helped with huge refactors and modernization of legacy code
     - wrote the Buzzer component and its sound synthesis module, supporting fully customizable different waveform types
-- \[2017; now) [TRWiki / TRosettaStone3](https://trwiki.earvillage.net/) (part of the development team for various community projects) - Wiki / knowledge base about the classic Tomb Raider games series from 1996-2000
+- \[2017; now)  [TRWiki / TRosettaStone3](https://trwiki.earvillage.net/) (maintainer for various community projects) - Wiki / knowledge base about the classic Tomb Raider games series from 1996-2000
     - converted the old source document to Wiki format
     - catalogued hundreds of items from the games
     - helped document various file formats
