@@ -23,11 +23,7 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 
 ### Current
 
--       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [hm-infer-rs](https://github.com/zdimension/hm-infer-rs) - Hindley-Milner type inference for Scheme, in Rust; with REPL
--       2022       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [hm-infer-cs](https://github.com/zdimension/hm-infer-cs) - Hindley-Milner type inference for Scheme, in C#
--       2022       <img alt="Racket" height=20 src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg"> [hm-infer-scheme](https://github.com/zdimension/hm-infer-scheme) - Hindley-Milner type inference for Scheme, in Scheme
--       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [inline-vbs](https://github.com/zdimension/inline-vbs) - Embed VBScript code seamlessly inside Rust using the Active Scripting COM APIs
--       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [embed-c](https://github.com/zdimension/embed-c) - Embed C code at compile time inside Rust using C2Rust
+-       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [usbrawmap](https://github.com/zdimension/usbrawmap) - USB scancode mapper / driver for old nonstandard keyboards
 - \[2021; now)  <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> <img alt="OpenGL" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg"> [graphrust](https://github.com/zdimension/graphrust) - GPU-accelerated large graph (>1M nodes) viewer for a web scraping project
 - \[2021; now)  <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img alt="Windows Forms" height=20 src="https://i.imgur.com/lrqrIUg.png"> [FastMark](https://github.com/zdimension/FastMark) - fast, efficient watermarking tool
 - \[2020; now)  <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img alt="SFML" height=20 src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg"> [phytestcs](https://github.com/zdimension/phytestcs) - simple, scriptable physics engine
@@ -38,6 +34,11 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 
 ### Past
 
+-       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [hm-infer-rs](https://github.com/zdimension/hm-infer-rs) - Hindley-Milner type inference for Scheme, in Rust; with REPL
+-       2022       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [hm-infer-cs](https://github.com/zdimension/hm-infer-cs) - Hindley-Milner type inference for Scheme, in C#
+-       2022       <img alt="Racket" height=20 src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg"> [hm-infer-scheme](https://github.com/zdimension/hm-infer-scheme) - Hindley-Milner type inference for Scheme, in Scheme
+-       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [inline-vbs](https://github.com/zdimension/inline-vbs) - Embed VBScript code seamlessly inside Rust using the Active Scripting COM APIs
+-       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [embed-c](https://github.com/zdimension/embed-c) - Embed C code at compile time inside Rust using C2Rust
 -       2022       <img alt="C" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> [WordleCE](https://github.com/zdimension/wordle-ce) - Wordle implementation on the TI CE calculator family
 -       2021       <img alt="Prolog" height=20 src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg"> [si4-s8-options](https://github.com/zdimension/si4-s8-options) - school courses choice solver
 -       2021       <img alt="C++" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> [red_blue_graph_solver](https://github.com/thomasarmel/red_blue_graph_solver_1) - algorithmic analysis of the "red-blue" graph problem related to connectivity inference
