@@ -1,7 +1,7 @@
 # Hey there!
 
 [<img alt="LinkedIn" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/tom-niget/)  [<img alt="Twitter" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/zdimension_)
- [<img alt="Ghost (Blog)" height=30 src="https://symbols.getvecta.com/stencil_81/30_ghost-icon.cc6e6854ee.svg" />](https://zdimension.fr)
+ [<img alt="Ghost (Blog)" height=30 src="https://ghost.org/images/logos/ghost-logo-orb.png" />](https://zdimension.fr)
 
 I'm Tom Niget, living in France and currently studying for an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
 
