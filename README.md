@@ -3,10 +3,14 @@
 [<img alt="LinkedIn" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/tom-niget/)  [<img alt="Twitter" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/zdimension_)
  [<img alt="Ghost (Blog)" height=30 src="https://ghost.org/images/logos/ghost-logo-orb.png" />](https://zdimension.fr)
 
-I'm Tom Niget, living in France and currently studying for an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
+I'm Tom Niget, I'm 19, living in France and currently studying for an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zdimension&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdimension&layout=compact&hide=lua)
+Throughout the years, I've wandered in many areas of the world of computers; from [budgeting software](https://github.com/zdimension/CrediNET) to [disk management utilities](https://github.com/zdimension/SharpBoot), from [real-time image processing](https://github.com/zdimension/tpepeip1) to [logic programming](https://github.com/zdimension/si4-s8-options), from [type theory](https://github.com/zdimension/hm-infer-scheme) to [digital circuits](https://github.com/zdimension/logisim-pong). I've written [programming languages](https://github.com/HassiumTeam/Hassium), [a Python IDE](https://github.com/TuringApp/Turing), a [game](https://github.com/zdimension/wordle-ce) for TI-84 calculators, [low-level drivers](https://github.com/CosmosOS/Cosmos) for a managed kernel, and run [Rust code on logic circuits](https://twitter.com/zdimension_/status/1554953047847337985).
+
+I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr/en/about/csaw-results) with some friends while in high school, my work has been featured in [a CS teachers journal](https://www.epi.asso.fr/revue/lu/l1806n.htm) (in French) and [a Kotaku article](https://www.kotaku.com.au/2018/02/decompiled-tomb-raider-source-code-reveals-loads-of-vulgar-commentary/), and I've front-paged /r/programming with a [cursed Rust crate](https://github.com/zdimension/embed-c).
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zdimension&count_private=true&show_icons=true&include_all_commits=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdimension&layout=compact&hide=lua&theme=nord)
 
 # Best friends
 
@@ -20,7 +24,7 @@ I'm Tom Niget, living in France and currently studying for an engineering degree
 
 # Projects
 
-## Personal
+## Author
 
 ### Current
 
