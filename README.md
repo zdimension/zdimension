@@ -89,3 +89,5 @@ I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr
 - \[2014; 2015] <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [Cosmos](https://github.com/CosmosOS/Cosmos) - C# operating system construction kit
     - wrote a PS/2 keyboard driver with key layout handling, some ACPI tools
 -       2013       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [Ocular](https://github.com/zdimension/Ocular) - WYSIWYG HTML editor, similar to Adobe Dreamweaver
+
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=zdimension)
