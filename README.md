@@ -28,7 +28,6 @@ I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr
 
 ### Current
 
-https://github.com/zdimension/parm_extended
 - \[2022; now)  <img alt="C" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img alt="Racket" height=20 src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg"> <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [parm_extended](https://github.com/zdimension/parm_extended) - ARM CPU implemented from scratch in logic circuits on [Digital](https://github.com/hneemann/Digital); Rust standard library and build toolchain with *real* programs running on it (Web server, Scheme REPL, VT100 emulator), [blog post here](https://zdimension.fr/crabs-all-the-way-down/)
 
 ### Past
