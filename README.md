@@ -14,7 +14,7 @@ I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr
 
 # Best friends
 
-<img alt="C#" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">     <img alt="Git" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">     <img alt="JetBrains" height=80 src="https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg">     <img alt="Python" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">     <img alt="Rust" width=80 src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" />
+<img alt="C#" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">     <img alt="Git" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">     <img alt="JetBrains" height=80 src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg">     <img alt="Python" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">     <img alt="Rust" width=80 src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" />
 
 
 # Education
