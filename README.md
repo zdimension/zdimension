@@ -33,6 +33,7 @@ I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr
 ### Past
 
 -       2022       <img alt="Java" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [security-iot-notre-projet](https://github.com/zdimension/security-iot-notre-projet) - JavaCard applet for storing an RSA keypair and signing stuff with it, with a Python client and REPL
+-       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [macro-forth](https://github.com/zdimension/macro-forth) - Forth implemented in a Rust declarative macro using tt-munchers, [blog post here](https://zdimension.fr/stack-machines-and-where-to-find-them/)
 -       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [usbrawmap](https://github.com/zdimension/usbrawmap) - USB scancode mapper / driver for old nonstandard keyboards
 -       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [hm-infer-rs](https://github.com/zdimension/hm-infer-rs) - Hindley-Milner type inference for Scheme, in Rust; with REPL
 -       2022       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [hm-infer-cs](https://github.com/zdimension/hm-infer-cs) - Hindley-Milner type inference for Scheme, in C#
