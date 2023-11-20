@@ -3,9 +3,9 @@
 [<img alt="LinkedIn" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/tom-niget/)  [<img alt="Twitter" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/zdimension_)
  [<img alt="Ghost (Blog)" height=30 src="https://ghost.org/images/logos/ghost-logo-orb.png" />](https://zdimension.fr)
 
-I'm Tom Niget (pronounced /ni.ʒɛ/), I'm 20, living in France and currently working on compilers at [Rapid.Space](https://www.rapid.space/) after getting an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
+I'm Tom Niget (pronounced /ni.ʒɛ/), I'm 20, living in France and currently working on [compilers](https://typon.nexedi.com/) at [Rapid.Space](https://www.rapid.space/) after getting an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
 
-Throughout the years, I've wandered in many areas of the world of computers; from [budgeting software](https://github.com/zdimension/CrediNET) to [disk management utilities](https://github.com/zdimension/SharpBoot), from [real-time image processing](https://github.com/zdimension/tpepeip1) to [logic programming](https://github.com/zdimension/si4-s8-options), from [type theory](https://github.com/zdimension/hm-infer-scheme) to [digital circuits](https://github.com/zdimension/logisim-pong). I've written [programming languages](https://github.com/HassiumTeam/Hassium), [a Python IDE](https://github.com/TuringApp/Turing), a [game](https://github.com/zdimension/wordle-ce) for TI-84 calculators, [low-level drivers](https://github.com/CosmosOS/Cosmos) for a managed kernel, and run [Rust code on logic circuits](https://twitter.com/zdimension_/status/1554953047847337985).
+I've wandered in many areas of the world of computers; from [budgeting software](https://github.com/zdimension/CrediNET) to [disk management utilities](https://github.com/zdimension/SharpBoot) in my younger years, from [real-time image processing](https://github.com/zdimension/tpepeip1) to [logic programming](https://github.com/zdimension/si4-s8-options), from [type theory](https://github.com/zdimension/hm-infer-scheme) to [digital circuits](https://github.com/zdimension/logisim-pong). I've written [programming languages](https://github.com/HassiumTeam/Hassium), [a Python IDE](https://github.com/TuringApp/Turing), a [game](https://github.com/zdimension/wordle-ce) for TI-84 calculators, [low-level drivers](https://github.com/CosmosOS/Cosmos) for a managed kernel, and run [Rust code on logic circuits](https://twitter.com/zdimension_/status/1554953047847337985).
 
 I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr/en/about/csaw-results) with some friends while in high school, my work has been featured in [a CS teachers journal](https://www.epi.asso.fr/revue/lu/l1806n.htm) (in French) and [a Kotaku article](https://www.kotaku.com.au/2018/02/decompiled-tomb-raider-source-code-reveals-loads-of-vulgar-commentary/), and I've [front-paged /r/programming](https://www.reddit.com/r/programming/comments/t0pzxb/tired_of_safe_programming_embed_c_directly_in/) with a [cursed Rust crate](https://github.com/zdimension/embed-c).
 
@@ -28,11 +28,13 @@ I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr
 
 ### Current
 
-- \[2023; now)  <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [physics_rust](https://github.com/zdimension/physics_rust) - [Algodoo](http://www.algodoo.com/) clone using the [Bevy](https://github.com/bevyengine/bevy) engine/ECS system and the [Rapier](https://github.com/dimforge/rapier) physics engine (more or less another attempt at doing what [phytestcs](https://github.com/zdimension/phytestcs) was supposed to be, but this time I'm willing to admit that I'm not smart enough to write a proper physics engine)
+-       2023       <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img alt="C++" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> [Typon](https://typon.nexedi.com/) - Work-in-progress research Python-to-C++ compiler with a focus on concurrency and interoperability
 
 ### Past
 
+-       2023       <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [PlexDLWeb](https://github.com/zdimension/plexdlweb) - Web UI for downloading media from Plex without the Plex Pass
 -       2023       <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [openhab-config-gen](https://github.com/zdimension/openhab-config-gen) - Set of tools that generates openHAB configuration files, InfluxDB alerts and ping checks from a list of Modbus-over-TCP equipments – research project
+-       2023       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [physics_rust](https://github.com/zdimension/physics_rust) - [Algodoo](http://www.algodoo.com/) clone using the [Bevy](https://github.com/bevyengine/bevy) engine/ECS system and the [Rapier](https://github.com/dimforge/rapier) physics engine (more or less another attempt at doing what [phytestcs](https://github.com/zdimension/phytestcs) was supposed to be, but this time I'm willing to admit that I'm not smart enough to write a proper physics engine)
 -       2022       <img alt="Java" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [security-iot-notre-projet](https://github.com/zdimension/security-iot-notre-projet) - JavaCard applet for storing an RSA keypair and signing stuff with it, with a Python client and REPL
 -       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [macro-forth](https://github.com/zdimension/macro-forth) - Forth implemented in a Rust declarative macro using tt-munchers, [blog post here](https://zdimension.fr/stack-machines-and-where-to-find-them/)
 -       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [usbrawmap](https://github.com/zdimension/usbrawmap) - USB scancode mapper / driver for old nonstandard keyboards
@@ -77,6 +79,10 @@ I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr
 
 ### Current
 
+-       2023       <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [Themerr-plex](https://github.com/LizardByte/Themerr-plex) - plugin for Plex Media Server that adds theme songs to movies using ThemerrDB
+
+### Past
+
 -       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [cargo-breaking](https://github.com/iomentum/cargo-breaking) - cargo command for automatically detecting breaking changes between versions of a project
 -       2022       <img alt="Rust" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> [restest](https://github.com/iomentum/restest) - declarative REST API testing utilities
 - \[2020; now)  <img alt="Java" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) (maintainer) - digital logic circuit design and simulation tool
@@ -86,9 +92,6 @@ I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr
     - converted the old source document to Wiki format
     - catalogued hundreds of items from the games
     - helped document various file formats
-
-### Past
-
 - \[2014; 2015] <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [Cosmos](https://github.com/CosmosOS/Cosmos) - C# operating system construction kit
     - wrote a PS/2 keyboard driver with key layout handling, some ACPI tools
 -       2013       <img alt="C#" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> [Ocular](https://github.com/zdimension/Ocular) - WYSIWYG HTML editor, similar to Adobe Dreamweaver
