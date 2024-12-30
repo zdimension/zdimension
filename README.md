@@ -3,11 +3,13 @@
 [<img alt="LinkedIn" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/tom-niget/)  [<img alt="Twitter" height=30 src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />](https://twitter.com/zdimension_)
  [<img alt="Blog" height=30 src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Microsoft_Office_FrontPage_%282000%E2%80%9303%29.svg" />](https://zdimension.fr)
 
-I'm Tom Niget (pronounced /ni.ʒɛ/), I'm 21, living in France and currently working on [compilers](https://typon.nexedi.com/) and cloud infrastructure at [Rapid.Space](https://www.rapid.space/) after getting an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
+I'm Tom Niget (pronounced /ni.ʒɛ/), I'm 22, living in France and currently working on [compilers](https://typon.nexedi.com/) and cloud infrastructure at [Rapid.Space](https://www.rapid.space/) after getting an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
 
 I've wandered in many areas of the world of computers; from [budgeting software](https://github.com/zdimension/CrediNET) to [disk management utilities](https://github.com/zdimension/SharpBoot) in my younger years, from [real-time image processing](https://github.com/zdimension/tpepeip1) to [logic programming](https://github.com/zdimension/si4-s8-options), from [type theory](https://github.com/zdimension/hm-infer-scheme) to [digital circuits](https://github.com/zdimension/logisim-pong). I've written [programming languages](https://github.com/HassiumTeam/Hassium), [a Python IDE](https://github.com/TuringApp/Turing), a [game](https://github.com/zdimension/wordle-ce) for TI-84 calculators, [low-level drivers](https://github.com/CosmosOS/Cosmos) for a managed kernel, and run [Rust code on logic circuits](https://twitter.com/zdimension_/status/1554953047847337985).
 
 I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr/en/about/csaw-results) with some friends while in high school, my work has been featured in [a CS teachers journal](https://www.epi.asso.fr/revue/lu/l1806n.htm) (in French) and [a Kotaku article](https://www.kotaku.com.au/2018/02/decompiled-tomb-raider-source-code-reveals-loads-of-vulgar-commentary/), and I've [front-paged /r/programming](https://www.reddit.com/r/programming/comments/t0pzxb/tired_of_safe_programming_embed_c_directly_in/) with a [cursed Rust crate](https://github.com/zdimension/embed-c).
+
+From time to time, I [write blog posts](https://zdimension.fr/) about things that I find interesting.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zdimension&count_private=true&show_icons=true&include_all_commits=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdimension&layout=compact&hide=lua&theme=nord)
@@ -80,16 +82,18 @@ I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr
 
 ### Current
 
--       2023       <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [Themerr-plex](https://github.com/LizardByte/Themerr-plex) - plugin for Plex Media Server that adds theme songs to movies using ThemerrDB
-
-### Past
-
--       2022       <img alt="Rust" height=20 src="https://iggy.rs/sdkIcons/rustLogo.svg"> [cargo-breaking](https://github.com/iomentum/cargo-breaking) - cargo command for automatically detecting breaking changes between versions of a project
--       2022       <img alt="Rust" height=20 src="https://iggy.rs/sdkIcons/rustLogo.svg"> [restest](https://github.com/iomentum/restest) - declarative REST API testing utilities
 - \[2020; now)  <img alt="Java" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) (maintainer) - digital logic circuit design and simulation tool
     - helped with huge refactors and modernization of legacy code
     - wrote the Buzzer component and its sound synthesis module, supporting fully customizable different waveform types
-- \[2017; now)  [TRWiki / TRosettaStone3](https://trwiki.earvillage.net/) (maintainer for various community projects) - Wiki / knowledge base about the classic Tomb Raider games series from 1996-2000
+    - ported the Telnet component from [Digital](https://github.com/hneemann/Digital/)
+
+### Past
+
+-       2024       <img alt="TypeScript" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> [Immich](https://github.com/immich-app/immich) - self-hosted photo management solution (Google Photos alternative)
+-       2023       <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [Themerr-plex](https://github.com/LizardByte/Themerr-plex) - plugin for Plex Media Server that adds theme songs to movies using ThemerrDB
+-       2022       <img alt="Rust" height=20 src="https://iggy.rs/sdkIcons/rustLogo.svg"> [cargo-breaking](https://github.com/iomentum/cargo-breaking) - cargo command for automatically detecting breaking changes between versions of a project
+-       2022       <img alt="Rust" height=20 src="https://iggy.rs/sdkIcons/rustLogo.svg"> [restest](https://github.com/iomentum/restest) - declarative REST API testing utilities
+- \[2017; 2022] [TRWiki / TRosettaStone3](https://trwiki.earvillage.net/) (maintainer for various community projects) - Wiki / knowledge base about the classic Tomb Raider games series from 1996-2000
     - converted the old source document to Wiki format
     - catalogued hundreds of items from the games
     - helped document various file formats
