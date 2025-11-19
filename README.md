@@ -32,11 +32,21 @@ From time to time, I [write blog posts](https://zdimension.fr/) about things tha
 
 ### Current
 
-- \[2024; now)  <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [elecanalysis](https://github.com/zdimension/elecanalysis) - Automatic electricity cost calculator and comparator
-- \[2021; now)  <img alt="Rust" width=20 src="https://rustacean.net/assets/rustacean-flat-noshadow.svg"> <img alt="OpenGL" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg"> <img alt="Neo4j" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"> [graphrust](https://github.com/zdimension/graphrust) - GPU-accelerated large graph (>1M nodes) viewer for a web scraping project
+- \[2022; now)  <img alt="C" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img alt="Racket" height=20 src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg"> <img alt="Rust" width=20 src="https://rustacean.net/assets/rustacean-flat-noshadow.svg"> <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [parm_extended](https://github.com/zdimension/parm_extended) - ARM CPU implemented from scratch in logic circuits on [Digital](https://github.com/hneemann/Digital), [blog post here](https://zdimension.fr/crabs-all-the-way-down/)
+  - home-made optimizing assembler and linker
+  - freestanding optimizing C compiler
+  - Scheme interpreter and REPL
+  - VT100 emulator
+  - MIDI player
+  - basic HTML rendering engine
+  - async-based cooperative tasking
+- \[2021; now)  <img alt="Rust" width=20 src="https://rustacean.net/assets/rustacean-flat-noshadow.svg"> <img alt="OpenGL" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg"> <img alt="Neo4j" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"> <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [graphrust](https://github.com/zdimension/graphrust) - GPU-accelerated large graph (>1M nodes) viewer for a web scraping project
+  - with (not yet released) Neo4j-based Facebook scraper (full DB is >180M nodes)
 
 ### Past
 
+-       2025       <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [ADE Scraper](https://github.com/zdimension/ade-scraper) - resource scraper for the ADE planning system
+-       2024       <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [elecanalysis](https://github.com/zdimension/elecanalysis) - Automatic electricity cost calculator and comparator
 - \[2023; 2024] <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img alt="C++" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> [Typon](https://typon.nexedi.com/) - Work-in-progress research Python-to-C++ compiler with a focus on concurrency and interoperability
 -       2023       <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [PlexDLWeb](https://github.com/zdimension/plexdlweb) - Web UI for downloading media from Plex without the Plex Pass
 -       2023       <img alt="Python" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> [openhab-config-gen](https://github.com/zdimension/openhab-config-gen) - Set of tools that generates openHAB configuration files, InfluxDB alerts and ping checks from a list of Modbus-over-TCP equipments – research project
@@ -50,7 +60,6 @@ From time to time, I [write blog posts](https://zdimension.fr/) about things tha
 - \[2021; 2023] <img alt="Rust" width=20 src="https://rustacean.net/assets/rustacean-flat-noshadow.svg"> [inline-vbs](https://github.com/zdimension/inline-vbs) - Embed VBScript (and JScript, Ruby, Perl, ...) code seamlessly inside Rust using the Active Scripting COM APIs, [blog post here](https://zdimension.fr/how-i-learned-to-stop-worrying-and-love-macros/)
 -       2022       <img alt="Rust" width=20 src="https://rustacean.net/assets/rustacean-flat-noshadow.svg"> [embed-c](https://github.com/zdimension/embed-c) - Embed C code at compile time inside Rust using C2Rust, [blog post here](https://zdimension.fr/how-i-learned-to-stop-worrying-and-love-macros/)
 -       2022       <img alt="C" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> [WordleCE](https://github.com/zdimension/wordle-ce) - Wordle implementation on the TI CE calculator family
-- \[2022; 2023] <img alt="C" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img alt="Racket" height=20 src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg"> <img alt="Rust" width=20 src="https://rustacean.net/assets/rustacean-flat-noshadow.svg"> [parm_extended](https://github.com/zdimension/parm_extended) - ARM CPU implemented from scratch in logic circuits on [Digital](https://github.com/hneemann/Digital); Rust standard library and build toolchain with *real* programs running on it (Web server, Scheme REPL, VT100 emulator), [blog post here](https://zdimension.fr/crabs-all-the-way-down/)
 -       2021       <img alt="Prolog" height=20 src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg"> [si4-s8-options](https://github.com/zdimension/si4-s8-options) - school courses choice solver
 -       2021       <img alt="C++" height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> [red_blue_graph_solver](https://github.com/thomasarmel/red_blue_graph_solver_1) - algorithmic analysis of the "red-blue" graph problem related to connectivity inference
 -       2021       <img alt="Logisim circuit" height=20 src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logisim-icon.svg"> [logisim-connectfour](https://github.com/zdimension/logisim-connectfour) - Connect Four implemented as a logic circuit
