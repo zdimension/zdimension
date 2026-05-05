@@ -3,7 +3,7 @@
 [<img alt="LinkedIn" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/tom-niget/)  [<img alt="Twitter" height=30 src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />](https://twitter.com/zdimension_)
  [<img alt="Blog" height=30 src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Microsoft_Office_FrontPage_%282000%E2%80%9303%29.svg" />](https://zdimension.fr)
 
-I'm Tom Niget (pronounced /ni.ʒɛ/), I'm 22, living in France and currently:
+I'm Tom Niget (pronounced /ni.ʒɛ/), I'm 23, living in France and currently:
 - working on [compilers](https://typon.nexedi.com/) and cloud infrastructure at [Rapid.Space](https://www.rapid.space/) after getting an engineering degree in Computer Science at the [Sophia Antipolis engineering school (Polytech Nice)](https://polytech.univ-cotedazur.fr/)
 - teaching CPU design, Linux, system administration, parallel programming, and some other things at my alma mater [Polytech Nice](https://polytech.univ-cotedazur.fr/) and at [IUT Nice Côte d'Azur](https://iut.univ-cotedazur.fr/)
 
