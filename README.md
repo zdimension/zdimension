@@ -13,8 +13,8 @@ I won first place in a [European CTF competition](https://esisar.grenoble-inp.fr
 
 From time to time, I [write blog posts](https://zdimension.fr/) about things that I find interesting.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zdimension&count_private=true&show_icons=true&include_all_commits=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdimension&layout=compact&hide=lua&theme=nord)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zdimension&count_private=true&show_icons=true&include_all_commits=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdimension&layout=compact&hide=lua&theme=nord)-->
 
 # Best friends
 
